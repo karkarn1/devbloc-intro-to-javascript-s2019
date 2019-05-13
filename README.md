@@ -9,7 +9,8 @@ Course content & supporting material for [DevBloc](http://devbloc.ca/)'s **Intro
 ├── examples/                   ## Examples from the lectures
 ├── projects/                   ## Projects & Solutions
 ├── README.md
-└── slides/                     ## Lectures slides
+├── slides/                     ## Lectures slides
+└── workshops/                  ## In class workshops instructions & solutions
 ```
 
 ## Tentative Course Outline
