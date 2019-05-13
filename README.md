@@ -12,7 +12,7 @@ Course content & supporting material for [DevBloc](http://devbloc.ca/)'s **Intro
 └── slides/                     ## Lectures slides
 ```
 
-## Course Outline
+## Tentative Course Outline
 
 ### Week 1: Introduction, Setup & JavaScript Fundamentals
 * Environment setup
