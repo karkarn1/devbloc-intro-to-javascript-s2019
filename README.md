@@ -2,8 +2,6 @@
 
 Course content & supporting material for [DevBloc](http://devbloc.ca/)'s **Intro to JavaScript** class
 
-## Course Outline
-
 ## Repository Structure
 ```
 .
@@ -13,6 +11,9 @@ Course content & supporting material for [DevBloc](http://devbloc.ca/)'s **Intro
 ├── README.md
 └── slides/                     ## Lectures slides
 ```
+
+## Course Outline
+
 ### Week 1: Introduction, Setup & JavaScript Fundamentals
 * Environment setup
 * HTML review
