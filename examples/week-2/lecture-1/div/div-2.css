@@ -1,12 +1,14 @@
-.wrapper{
+.wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.content-container{
+
+.content-container {
     border: solid 5px red;
     max-width: 45%;
 }
-img{
+
+img {
     max-width: 100%;
 }

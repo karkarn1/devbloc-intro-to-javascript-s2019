@@ -1,14 +1,15 @@
 #name {
-color: red;
+    color: red;
 }
 
 #age {
-color: blue;
+    color: blue;
 }
 
-.center-text{
-text-align:center;
+.center-text {
+    text-align: center;
 }
+
 .info {
-color: green;
+    color: green;
 }
