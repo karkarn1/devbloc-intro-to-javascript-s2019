@@ -1,0 +1,7 @@
+.column{
+    background-color: red;
+    width: 33%;
+}
+.container{
+    display: flex;
+}
