@@ -2,3 +2,6 @@
 ### IDE Files
 .idea
 devbloc-intro-to-javascript-s2019.iml
+
+*/node_modules/*
+*/build/*
