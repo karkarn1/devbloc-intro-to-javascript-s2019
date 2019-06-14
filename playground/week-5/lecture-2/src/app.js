@@ -12,4 +12,7 @@ axios.get('http://a3b59cec.ngrok.io/info')
         const data = response.data;
         console.log(data);
         updateContent('name',data.name);
+        updateContent('age',data.age);
+        updateContent('title',data.title);
+        updateContent('company',data.company);
     });
