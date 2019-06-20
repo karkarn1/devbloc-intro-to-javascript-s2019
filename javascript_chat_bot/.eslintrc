@@ -1,0 +1,23 @@
+{
+  "extends": ["standard", "airbnb", "standard-react"],
+  "parser": "babel-eslint",
+  "plugins": [
+    "react"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "no-console": "off",
+    "indent": "off",
+    "react/jsx-indent": "off",
+    "react/jsx-indent-props": [2, 4],
+    "react/jsx-filename-extension": "off",
+    "react/jsx-one-expression-per-line":"off",
+    "semi": [1,"always"],
+    "react/prop-types": "off",
+    "jsx-a11y/label-has-for":"off"
+  }
+}
